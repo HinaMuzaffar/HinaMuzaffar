@@ -24,3 +24,6 @@
  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/></td>
  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60"/></td> 
  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60"/></td> </tr> </table>
+
+ <b> Backend Development </b>
+ <table> <tr> <td align="center">Express</td> <td align="center">Node</td> <td align="center">NPM</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60"/></td> </tr> </table>
