@@ -6,7 +6,6 @@
 - 💬 Ask me about <b>Web Development</b>
 - 💼 I'm a <b>Freelancer</b>
 - 💻 Hire me as <b>Full Stack Developer</b>
-- 📫 How to reach me hinamuzaffar07@gmail.com
 
  <p align="center">
   <h1 align="center">Languages and Tools</h1>
@@ -50,7 +49,7 @@
     </td>
   <td align="center">
       <a href="https://discord.com/users/1208412165258748031" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" />
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/discord.svg" width="60" />
       </a>
     </td>
  </tr></table>
