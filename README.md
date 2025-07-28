@@ -34,5 +34,5 @@
 
 
   <p align="center">
-  <h1 align="center"> 📫 How to reach me </h1>
+  <h1 align="center"> 📫 Connect with Me </h1>
 </p>
