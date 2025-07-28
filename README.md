@@ -7,3 +7,8 @@
 - 💼 I'm a <b>Freelancer</b>
 - 💻 Hire me as <b>Full Stack Developer</b>
 
+ <p align="center">
+  <h1 align="center">Languages and Tools</h1>
+</p>
+
+## Languages
