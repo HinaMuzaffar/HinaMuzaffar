@@ -36,3 +36,21 @@
   <p align="center">
   <h1 align="center"> 📫 Connect with Me </h1>
 </p>
+<table> <tr> <td align="center">Mail</td> <td align="center">LinkedIn</td> <td align="center">Discord</td> </tr>
+ <tr>
+<td align="center">
+      <a href="hinamuzaffar07@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" />
+      </a>
+    </td>
+  <td align="center">
+      <a href="" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+      </a>
+    </td>
+  <td align="center">
+      <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+      </a>
+    </td>
+ </tr></table>
