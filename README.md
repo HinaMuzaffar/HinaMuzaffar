@@ -29,7 +29,7 @@
 
 
 <b> Databases</b>
- <table> <tr> <td align="center">MongoDB</td> <td align="center">MySQL</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/></td> <td align="center"><img src="	https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/></td> </tr> </table>
+ <table> <tr> <td align="center">MongoDB</td> <td align="center">MySQL</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/></td> </tr> </table>
 
 
   <p align="center">
@@ -49,7 +49,7 @@
     </td>
   <td align="center">
       <a href="https://discord.com/users/1208412165258748031" target="_blank">
-        <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/discord.svg" width="60" />
+        <img src="https://img.icons8.com/color/48/000000/discord--v2.png" width="60" />
       </a>
     </td>
  </tr></table>
