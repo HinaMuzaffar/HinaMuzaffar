@@ -30,6 +30,6 @@
 
 
 <b> Databases</b>
- <table> <tr> <td align="center">MongoDB</td> <td align="center">MySQL</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/></td> </tr> </table>
+ <table> <tr> <td align="center">MongoDB</td> <td align="center">MySQL</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/></td> <td align="center"><img src="	https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60"/></td> </tr> </table>
 
  
