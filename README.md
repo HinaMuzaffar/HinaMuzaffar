@@ -27,3 +27,9 @@
 
  <b> Backend Development </b>
  <table> <tr> <td align="center">Express</td> <td align="center">Node</td> <td align="center">NPM</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60"/></td> <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60"/></td> </tr> </table>
+
+
+<b> Databases</b>
+ <table> <tr> <td align="center">MongoDB</td> <td align="center">MySQL</td> </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/></td> </tr> </table>
+
+ 
