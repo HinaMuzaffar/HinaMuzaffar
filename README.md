@@ -13,5 +13,4 @@
 </p>
 
 ## Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+<table> <tr> <td align="center">JS</td> <td align="center">Java</td>  </tr> <tr> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/></td> <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/></td>  </tr> </table>
