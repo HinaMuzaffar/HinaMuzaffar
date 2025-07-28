@@ -9,7 +9,7 @@
 - 📫 How to reach me hinamuzaffar07@gmail.com
 
  <p align="center">
-  <h1 align="center">Languages and Tools</h1>
+  <h1 align="center"> ⚙️ Languages and Tools</h1>
 </p>
 
 <b> Languages </b>
